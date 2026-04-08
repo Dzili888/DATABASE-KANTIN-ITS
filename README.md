@@ -1,5 +1,7 @@
 # DATABASE-KANTIN-ITS
 
+**CATUR SETYO RAGIL 5027251066**
+
 ## ERD
 <img src="assets/erd.png">
 
